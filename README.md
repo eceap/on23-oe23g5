@@ -1,27 +1,31 @@
-# Repositorio para Proyecto "NombrePoryecto"
+# Repositorio para Proyecto "Los Picantes"
 Para trabajar con el grupo de proyecto
 ## Datos del grupo
 Completen con sus datos la siguiente tabla:
 Campo|Detalle
 ------|-----------
-Nombre de Proyecto| "Nnnn"
-Número de Grupo | x
-Alumnos| Nombre_Apellido1
-|  | Nombre_Apellido2
-|  | Nombre_Apellido3
-|  | Nombre_Apellido4
+Nombre de Proyecto| "Los Picantes"
+Número de Grupo | 5
+Alumnos| Joaquin_Mourelle
+|  | Marco_Callapa
+|  | Santino_Biggeri
+|  | Martin_Barsky
 Curso| 6°Electrónica
-Año| 20XX
+Año| 2023-∞
 
 ## Descripción del Proyecto
-Texto.
+Los Picantes
 
 ## Partes del Proyecto
+Los
+Picantes
 
 ## 1. Parte 1
+"la primera"
 - [ ] Tarea 1
 - [ ] Tarea 2
   - [ ] Subtarea
 
 ## 2. Parte2
+"la segunda"
 Texto.
